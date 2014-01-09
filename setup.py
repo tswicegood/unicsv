@@ -27,7 +27,7 @@ for dirpath, dirnames, filenames in os.walk('unicsv'):
 
 setup(
     name='unicsv',
-    version='1.0dev.0',
+    version='1.0.0',
     description='Package for dealing with unicode CSV files',
     author='Travis Swicegood',
     author_email='travis@domain51.com',
